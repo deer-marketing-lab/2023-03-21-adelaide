@@ -8,6 +8,8 @@ Starter codes: click [here](https://github.com/deer-marketing-lab/2023-03-21-ade
 
 Instructor Codes: click [here](https://github.com/deer-marketing-lab/2023-03-21-adelaide/raw/main/assets/instructor_code.zip)
 
+Tokenized data: click [here](https://github.com/deer-marketing-lab/2023-03-21-adelaide/raw/main/assets/tokens.csv)
+
 
 ## Background Reading
 
